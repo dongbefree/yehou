@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# WorkBuddy 工作区元数据（含本地云服务部署配置，不入库）
+.workbuddy/
+.wbapp_*.genie
+
+# 依赖 / 构建产物
+node_modules/
+dist/
+build/
